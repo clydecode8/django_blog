@@ -1,1 +1,1 @@
-# small_blog
+# Blog in DJANGO
